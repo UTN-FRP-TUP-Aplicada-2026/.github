@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-<h2> Grupo de Programación Aplicada <br/> 2025  <br/> Documentos, ejemplos y guía de ejercicios </h2>
+<h2> Grupo de Programación Aplicada <br/> 2026  <br/> Documentos, ejemplos y guía de ejercicios </h2>
 </div>
 
 <p align="center">
