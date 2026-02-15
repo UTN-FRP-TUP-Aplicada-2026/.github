@@ -22,7 +22,7 @@ y por último, la araña toma de la red lo necesario para montar su proyecto (la
 </em></p>
 
 ## Enlaces
-[Documentos y guías de ejercicios](https://docs.google.com/document/d/1ud7dv9qWv0ZHfpYGd17nKr_CpRopx7juKsI_9Bh1hsA/preview)
+[Documentos y guías de ejercicios](https://docs.google.com/document/d/1o-iFNkw3PyW0xb7arr3JwQXRaZ_FKOh6MO4sC_dAR5g/preview)
 
 ---
 
