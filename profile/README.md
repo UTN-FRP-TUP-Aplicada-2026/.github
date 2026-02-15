@@ -15,7 +15,7 @@
 </em></p> 
 
 <p align="center"><em>
-La aña teje la trama de temas relacionando conceptos e ideas. La aña completa y vincula casos de uso y ejemplos a la red de temas, <br/>
+La araña teje la trama de temas relacionando conceptos e ideas. La araña completa y vincula casos de uso y ejemplos a la red de temas, <br/>
 y por último, la araña toma de la red lo necesario para montar su proyecto (la araña robot) <br/>
  a la ratona cliente. <br/>
  
