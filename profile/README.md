@@ -1,4 +1,4 @@
-# 👋 UTN - FRP - TUP - Programación Aplicada - 2026
+# 👋 UTN - FRP - TUP - Programación Aplicada - 2025
 
 ---
 
@@ -7,16 +7,16 @@
 </div>
 
 <p align="center">
-<img src="la_ratona_y_su_sistema_de_datos.png?v=2" alt="La ratona y su sistema de datos" width="400"/>
+<img src="la_araña_tejedora.png?v=2" alt="La aña tejedora" width="400"/>
 </p>
 
 <p align="center"><em>
-“Las ratonas y su sistema de datos”.  Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a>. 
+“La araña tejedora”. Ilustración artística de <a href="https://github.com/MaximaCaceres">Máxima Caceres Alba</a> y su compañera anónima.
 </em></p> 
 
 <p align="center"><em>
-La ratona cliente emite consultas, la ratona mensajera lleva el mensaje de consulta al servicio, <br/>
-la ratona servicio atiende la consulta y finalmente la ratona mensajera entrega el mensaje de respuesta <br/>
+La aña teje la trama de temas relacionando conceptos e ideas. La aña completa y vincula casos de uso y ejemplos a la red de temas, <br/>
+y por último, la araña toma de la red lo necesario para montar su proyecto (la araña robot) <br/>
  a la ratona cliente. <br/>
  
 
